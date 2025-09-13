@@ -1,45 +1,41 @@
-# Hi, I’m Chin-x1919 
- i am dev form thailand
- ---
+# Hi, I’m Chin 👋  
+i am a dev from thailand  
+
+---
+
 Nothing. Just a README on the profile.  
 Must be **the README**.  
 
-- I build **projects nobody asked for** but somehow still exits.  
-- Proud creator of things like:  
-  - **Anonymous Q&A** → secured by `?Key=Something`  
-  - **CF-Calculator™** → a calculator that literally can’t math  
-  - Breadboard chaos projects (because why not)
-  - or something else
 ---
 
-## Contribution Growth
+## 🛠️ What I Build
+I make **projects nobody asked for** but somehow still exist:  
+- **Anonymous Q&A** → secured by `?Key=Something`  
+- **CF-Calculator™** → a calculator that literally can’t math  
+- Breadboard chaos projects (because why not)  
+- …or whatever cursed idea comes to mind  
 
+---
+
+## 📈 Contribution Growth
 - In 2024: Profile = graveyard ☠️  
-- In 2025: **+2005% growth** (calculated using *CF-Calculator™* — yes, the one that doesn’t understand math).  
+- In 2025: **+2005% growth**  
+  (calculated using *CF-Calculator™* — yes, the one that doesn’t understand math)  
 
-People who visit:  
+👀 People who visit:  
 > “Wtf is this, let’s check one project…”  
 >  
-> *ohh shiiittt you actually wasted hours making this??* 🤣  
+> *ohhh shiiittt you actually wasted hours making this??* 🤣  
 
 ---
 
-## Current Status
-- Budget per project: IDK 
-- Quality: questionable  
+## ⚡ Current Status
+- Budget per project: IDK, probably less than a Red Bull  
+- Quality: questionable at best  
 - License: MIT (aka do whatever, I don’t care)  
-- Motto: **O P E N S O U R C E > T H I R D P A R T Y**
-
----
-## NGL vs My Potato Project
-
-- **NGL (corporate)**: polished app, real backend, database, iOS/Android, $$$  
-- **Me**: one HTML file, Discord webhook, and a `?Key=Something`  
-
-Cost: **< 0 USD**  
-But hey, mine is **O P E N S O U R C E** ✨  
+- Motto: **O P E N S O U R C E > T H I R D P A R T Y**  
 
 ---
 
-If you came here expecting serious dev stuff, sorry.  
-You just found a repo zoo of cursed HTML & JS.
+If you came here expecting serious dev work, sorry.  
+You just found a **repo zoo of cursed Project**. 
