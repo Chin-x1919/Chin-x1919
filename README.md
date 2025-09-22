@@ -8,6 +8,10 @@ Must be **the README**.
 
 ---
 
+My CF-Links: https://chin-x1919.github.io/Chin-x1919/
+
+---
+
 ## 🛠️ What I Build
 I make **projects nobody asked for** but somehow still exist:  
 - **Anonymous Q&A** → secured by `?Key=Something`  
