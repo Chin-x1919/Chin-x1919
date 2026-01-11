@@ -1,3 +1,0 @@
-# Our Projects
-
-Coming soon...
