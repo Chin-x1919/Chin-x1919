@@ -19,5 +19,6 @@ so this is blog padge when we got some budget we'll making an physical product t
 ---
 # Our New Project
 
-LatteLLM you can read it [here](https://chin-x1919.github.io/Chin-x1919/?=Latte)
+LatteLLM you can read it [here](https://chin-x1919.github.io/Chin-x1919/?p=latte)
+
 
