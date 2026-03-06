@@ -19,14 +19,5 @@ so this is blog padge when we got some budget we'll making an physical product t
 ---
 # Our New Project
 
-## CF-SMP
-
-we have nothing about Oculink to do bc we're broke so we can't make any hardware so yeah here is our minecraft bedrock server you can join
-
-IP : 147.185.221.16
-
-Port : 61711
-
----
-
+LatteLLM you can read it [here](https://chin-x1919.github.io/Chin-x1919/?=Latte)
 
